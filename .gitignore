@@ -1,0 +1,6 @@
+/target
+/Cargo.lock
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/rust-wasm-nodejs.iml
+/.idea/vcs.xml
